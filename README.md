@@ -9,8 +9,8 @@
 Я реализовал полноценную инфраструктуру на базе Mini-PC, которая служит моей личной базой знаний и тренировочной площадкой для DevOps-задач.
 
 **Архитектура проекта:**
-*   **Engine:** [Wiki.js](https://stafintsev.ru) — развернута в Docker.
-*   **Infrastructure:** Конфигурация описана через **Docker Compose** и хранится в Git ([репозиторий infra-server](https://github.com)).
+*   **Engine:** [Wiki.js](https://wiki.stafintsev.ru) — развернута в Docker.
+*   **Infrastructure:** Конфигурация описана через **Docker Compose** и хранится в Git ([репозиторий infra-server](https://github.com/Sergy-Taph/infra-server)).
 *   **Network:** 
     *   Собственный домен `stafintsev.ru` с пробросом портов на MikroTik.
     *   **Nginx Proxy Manager** в качестве Reverse Proxy.
@@ -37,9 +37,6 @@
 ---
 
 ## 📫 Как со мной связаться:
-*   **Website:** [stafintsev.ru](https://stafintsev.ru)
-*   **Email:** [твой-email@example.com]
-*   **Telegram:** [@твой_ник]
-
-![Your GitHub Stats](https://vercel.app)
+*   **Email:** infoblock-smk@mail.ru
+*   **Telegram:** @st2012e5
 
