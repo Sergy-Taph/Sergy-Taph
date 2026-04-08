@@ -1,4 +1,4 @@
-# Привет! Я Сергей<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> (Sergy-Taph)
+# Привет! Я Сергей <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ### Junior DevOps Engineer | Self-hosting Enthusiast
 
 Я занимаюсь построением домашних и облачных инфраструктур, автоматизацией процессов и изучением лучших практик DevOps. Мой основной фокус сейчас — IaC (Infrastructure as Code) и контейнеризация.
