@@ -1,38 +1,37 @@
 # Привет! Я Сергей <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-### Junior DevOps Engineer | Self-hosting Enthusiast
 
-Я занимаюсь построением домашних и облачных инфраструктур, автоматизацией процессов и изучением лучших практик DevOps. Мой основной фокус сейчас — IaC (Infrastructure as Code) и контейнеризация.
-
----
-
-## 🛠 Мой основной проект: Home Ops & Knowledge Base
-Я реализовал полноценную инфраструктуру на базе Mini-PC, которая служит моей личной базой знаний и тренировочной площадкой для DevOps-задач.
-
-**Архитектура проекта:**
-*   **Engine:** [Wiki.js](https://wiki.stafintsev.ru) — развернута в Docker.
-*   **Infrastructure:** Конфигурация описана через **Docker Compose** и хранится в Git ([репозиторий infra-server](https://github.com/Sergy-Taph/infra-server)).
-*   **Network:** 
-    *   Собственный домен `stafintsev.ru` с пробросом портов на MikroTik.
-    *   **Nginx Proxy Manager** в качестве Reverse Proxy.
-    *   Автоматический SSL через **Let's Encrypt**.
-*   **GitOps:** Двусторонняя синхронизация контента между Wiki.js и приватным репозиторием GitHub (Markdown-based).
-*   **Backup:** Автоматизированная выгрузка дампов БД PostgreSQL в облако Яндекс.Диск.
+### System Administrator (10+ yrs) ➔ Aspirant DevOps Engineer
+*Базируюсь в Костроме. Специализируюсь на построении надежных IT-инфраструктур.*
 
 ---
 
-## 🏗 Технологический стек
-*   **OS:** Linux (Ubuntu/Debian), RouterOS (MikroTik)
-*   **Containerization:** Docker, Docker Compose
-*   **Web Servers:** Nginx, Nginx Proxy Manager
-*   **Databases:** PostgreSQL
-*   **Tools:** Git, Bash scripting, rclone
+## 🚀 Обо мне
+Я опытный системный администратор, управлявший парком из 350+ рабочих станций и распределенной сетью офисов. Сейчас я целенаправленно трансформирую свой опыт в DevOps, внедряя практики автоматизации и Infrastructure as Code (IaC).
+
+- 🛠 **Текущий проект:** Полноценная Self-hosted инфраструктура на базе Mini-PC (Wiki.js + PostgreSQL + Nginx Proxy Manager).
+- 🎓 **Образование:** Студент ЯГТУ («Информационные системы и технологии», 2028).
 
 ---
 
-## 📈 Сейчас я изучаю:
-*   Углубленный мониторинг (Prometheus + Grafana).
-*   Автоматизация через CI/CD (GitHub Actions).
-*   Kubernetes (K3s) для масштабирования домашних сервисов.
+## 🛠 Технологический стек
+*   **Infrastructure:** Docker, Docker Compose (IaC), Port Forwarding
+*   **Linux/OS:** Ubuntu, Mint, Debian, Windows Server (AD, DNS, DHCP, GPO)
+*   **Networking:** MikroTik (маршрутизация, VPN, Hairpin NAT), pfSense, D-LINK
+*   **Web & Proxy:** Nginx Proxy Manager (SSL Let's Encrypt), Wiki.js
+*   **Automation & Backup:** Bash-скриптинг, GitOps (двусторонняя синхронизация с GitHub), rclone
+
+---
+
+## 📂 Мои ключевые репозитории
+*   **[infra-server](https://github.com/Sergy-Taph/infra-server)** — Конфигурация моей домашней инфраструктуры (Docker Compose, Reverse Proxy). **Живой проект:** [wiki.stafintsev.ru](https://stafintsev.ru).
+*   **[wiki-notes](https://github.com/Sergy-Taph/wiki-notes)** — Моя приватная база знаний, синхронизированная по принципу GitOps (Markdown).
+
+---
+
+## 📈 Цели на 2026
+- Настройка полноценных CI/CD пайплайнов (GitHub Actions).
+- Внедрение мониторинга всей домашней инфраструктуры (Prometheus + Grafana).
+- Глубокое изучение Kubernetes (K3s).
 
 ---
 
