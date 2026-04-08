@@ -16,7 +16,7 @@
 ## 🐳 Технологический стек
 *   **Infrastructure:** Docker, Docker Compose (IaC), Port Forwarding
 *   **Linux/OS:** Ubuntu, Mint, Debian, Windows Server (AD, DNS, DHCP, GPO)
-*   **Networking:** MikroTik (маршрутизация, VPN, Hairpin NAT), pfSense, D-LINK
+*   **Networking:** MikroTik (маршрутизация, VPN), pfSense, D-LINK
 *   **Web & Proxy:** Nginx Proxy Manager (SSL Let's Encrypt), Wiki.js
 *   **Automation & Backup:** Bash-скриптинг, GitOps (двусторонняя синхронизация с GitHub), rclone
 
@@ -26,7 +26,7 @@
 *   **[infra-server](https://github.com/Sergy-Taph/infra-server)** — Конфигурация моей домашней инфраструктуры (Docker Compose, Reverse Proxy).
 *   **[wiki-notes](https://github.com/Sergy-Taph/wiki-notes)** — Моя приватная база знаний, синхронизированная по принципу GitOps (Markdown).
   
-*   **Живой проект:** [wiki.stafintsev.ru](https://stafintsev.ru).
+*   **Живой проект:** [wiki.stafintsev.ru](https://wiki.stafintsev.ru).
 
 ---
 
@@ -40,4 +40,3 @@
 ## 📫 Как со мной связаться:
 *   **Email:** infoblock-smk@mail.ru
 *   **Telegram:** @st2012e5
-
