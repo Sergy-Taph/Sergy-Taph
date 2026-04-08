@@ -1,61 +1,45 @@
-<!-- Заголовок с анимацией -->
-<h1 align="center">Привет! Я <a href="[ссылка на твой сайт или соцсети]">[ТВОЕ ИМЯ]</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Привет! Я Сергей 👋 (Sergy-Taph)
+### Junior DevOps Engineer | Self-hosting Enthusiast
 
-<!-- Краткое описание -->
-<h3 align="center">[Твоя роль: Junior Frontend Developer / Data Analyst / и т.д.]</h3>
+Я занимаюсь построением домашних и облачных инфраструктур, автоматизацией процессов и изучением лучших практик DevOps. Мой основной фокус сейчас — IaC (Infrastructure as Code) и контейнеризация.
 
-<!-- Бейджи с навыками (замени на свои) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+---
 
-<!-- О себе -->
-## 🧑‍💻 Обо мне
+## 🛠 Мой основной проект: Home Ops & Knowledge Base
+Я реализовал полноценную инфраструктуру на базе Mini-PC, которая служит моей личной базой знаний и тренировочной площадкой для DevOps-задач.
 
-- 🔭 Сейчас работаю над: **[название проекта]**
-- 🌱 Изучаю: **[технологии, которые учишь]**
-- 👯 Ищу colaboration в: **[тип проектов]**
-- 💬 Спроси меня о: **[темы, в которых разбираешься]**
-- 📫 Как со мной связаться: **[email]**
-- ⚡ Факт: **[интересный факт о тебе]**
+**Архитектура проекта:**
+*   **Engine:** [Wiki.js](https://stafintsev.ru) — развернута в Docker.
+*   **Infrastructure:** Конфигурация описана через **Docker Compose** и хранится в Git ([репозиторий infra-server](https://github.com)).
+*   **Network:** 
+    *   Собственный домен `stafintsev.ru` с пробросом портов на MikroTik.
+    *   **Nginx Proxy Manager** в качестве Reverse Proxy.
+    *   Автоматический SSL через **Let's Encrypt**.
+*   **GitOps:** Двусторонняя синхронизация контента между Wiki.js и приватным репозиторием GitHub (Markdown-based).
+*   **Backup:** Автоматизированная выгрузка дампов БД PostgreSQL в облако Яндекс.Диск.
 
-<!-- Статистика GitHub -->
-## 📊 GitHub Статистика
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_ЮЗЕРНЕЙМ]&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_ЮЗЕРНЕЙМ]&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-</p>
+## 🏗 Технологический стек
+*   **OS:** Linux (Ubuntu/Debian), RouterOS (MikroTik)
+*   **Containerization:** Docker, Docker Compose
+*   **Web Servers:** Nginx, Nginx Proxy Manager
+*   **Databases:** PostgreSQL
+*   **Tools:** Git, Bash scripting, rclone
 
-<!-- Самые популярные проекты -->
-## 🚀 Мои проекты
+---
 
-| Проект | Описание | Технологии |
-|--------|----------|-------------|
-| [Название 1](ссылка) | Краткое описание | React, Node.js |
-| [Название 2](ссылка) | Краткое описание | Python, Django |
-| [Название 3](ссылка) | Краткое описание | HTML, CSS, JS |
+## 📈 Сейчас я изучаю:
+*   Углубленный мониторинг (Prometheus + Grafana).
+*   Автоматизация через CI/CD (GitHub Actions).
+*   Kubernetes (K3s) для масштабирования домашних сервисов.
 
-<!-- Связь со мной -->
-## 🌐 Связь со мной
+---
 
-<p align="center">
-  <a href="[ссылка Telegram]">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="[ссылка LinkedIn]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="[ссылка на твой сайт/портфолио]">
-    <img src="https://img.shields.io/badge/Портфолио-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
+## 📫 Как со мной связаться:
+*   **Website:** [stafintsev.ru](https://stafintsev.ru)
+*   **Email:** [твой-email@example.com]
+*   **Telegram:** [@твой_ник]
 
-<!-- Счетчик посещений (опционально) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[ТВОЙ_ЮЗЕРНЕЙМ]&style=flat-square&color=blue" alt="Profile views" />
-</p>
+![Your GitHub Stats](https://vercel.app)
+
