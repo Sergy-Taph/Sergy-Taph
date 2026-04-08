@@ -26,7 +26,7 @@
 *   **[infra-server](https://github.com/Sergy-Taph/infra-server)** — Конфигурация моей домашней инфраструктуры (Docker Compose, Reverse Proxy).
 *   **[wiki-notes](https://github.com/Sergy-Taph/wiki-notes)** — Моя приватная база знаний, синхронизированная по принципу GitOps (Markdown).
   
-*   **Живой проект:** [wiki.stafintsev.ru](https://wiki.stafintsev.ru).
+*   **Живой проект:** [wiki.stafintsev.ru](https://wiki.stafintsev.ru)
 
 ---
 
