@@ -8,12 +8,12 @@
 ## 🚀 Обо мне
 Я опытный системный администратор, управлявший парком из 350+ рабочих станций и распределенной сетью офисов. Сейчас я целенаправленно трансформирую свой опыт в DevOps, внедряя практики автоматизации и Infrastructure as Code (IaC).
 
-- 🛠 **Текущий проект:** Полноценная Self-hosted инфраструктура на базе Mini-PC (Wiki.js + PostgreSQL + Nginx Proxy Manager).
+- 🔧 **Текущий проект:** Полноценная Self-hosted инфраструктура на базе Mini-PC (Wiki.js + PostgreSQL + Nginx Proxy Manager).
 - 🎓 **Образование:** Студент ЯГТУ («Информационные системы и технологии», 2028).
 
 ---
 
-## 🛠 Технологический стек
+## 🐳 Технологический стек
 *   **Infrastructure:** Docker, Docker Compose (IaC), Port Forwarding
 *   **Linux/OS:** Ubuntu, Mint, Debian, Windows Server (AD, DNS, DHCP, GPO)
 *   **Networking:** MikroTik (маршрутизация, VPN, Hairpin NAT), pfSense, D-LINK
@@ -23,8 +23,10 @@
 ---
 
 ## 📂 Мои ключевые репозитории
-*   **[infra-server](https://github.com/Sergy-Taph/infra-server)** — Конфигурация моей домашней инфраструктуры (Docker Compose, Reverse Proxy). **Живой проект:** [wiki.stafintsev.ru](https://stafintsev.ru).
+*   **[infra-server](https://github.com/Sergy-Taph/infra-server)** — Конфигурация моей домашней инфраструктуры (Docker Compose, Reverse Proxy).
 *   **[wiki-notes](https://github.com/Sergy-Taph/wiki-notes)** — Моя приватная база знаний, синхронизированная по принципу GitOps (Markdown).
+  
+*   **Живой проект:** [wiki.stafintsev.ru](https://stafintsev.ru).
 
 ---
 
